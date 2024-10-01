@@ -4,7 +4,7 @@ namespace ALGA
 {
     public class AVLTree
     {
-        public Node root;
+        public Node? root;
 
         public void insert(int number)
         {
