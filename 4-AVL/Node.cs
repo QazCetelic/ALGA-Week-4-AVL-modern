@@ -6,7 +6,7 @@ namespace ALGA
     {
         public int number;
 
-        public Node left, right;
+        public Node? left, right;
 
         public Node(int number)
         {
